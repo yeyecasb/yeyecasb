@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hola, soy [Claudio Santibáñez](https://github.com/yeyecasb) 👋
 
-<!--
-**yeyecasb/yeyecasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+- 🌱 Actualmente estoy aprendiendo todo lo que puedo sobre desarrollo de software.
+- 👯 Estoy buscando colaborar en proyectos de código abierto.
+- 📫 Cómo contactarme: Puedes encontrarme en [GitHub](https://github.com/yeyecasb)
 
-Here are some ideas to get you started:
+## Mis estadísticas de GitHub
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yeyecasb&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes más utilizados
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyecasb&layout=compact)
+
